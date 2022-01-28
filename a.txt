@@ -1,3 +1,5 @@
 learning git
 
 changing the file
+
+to check the merge conflicts 
