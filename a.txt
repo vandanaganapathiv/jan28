@@ -1,5 +1,7 @@
 learning git
 
+stashing the changes
+
 
 changing the file in master branch
 
